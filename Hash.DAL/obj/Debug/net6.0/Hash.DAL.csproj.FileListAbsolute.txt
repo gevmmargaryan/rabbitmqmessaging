@@ -1,0 +1,14 @@
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\bin\Debug\net6.0\Hash.DAL.deps.json
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\bin\Debug\net6.0\Hash.DAL.runtimeconfig.json
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\bin\Debug\net6.0\Hash.DAL.dll
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\bin\Debug\net6.0\Hash.DAL.pdb
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\obj\Debug\net6.0\Hash.DAL.csproj.AssemblyReference.cache
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\obj\Debug\net6.0\Hash.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\obj\Debug\net6.0\Hash.DAL.AssemblyInfoInputs.cache
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\obj\Debug\net6.0\Hash.DAL.AssemblyInfo.cs
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\obj\Debug\net6.0\Hash.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\obj\Debug\net6.0\Hash.DAL.dll
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\obj\Debug\net6.0\refint\Hash.DAL.dll
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\obj\Debug\net6.0\Hash.DAL.pdb
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\obj\Debug\net6.0\Hash.DAL.genruntimeconfig.cache
+C:\Users\Zevs\source\repos\Hash\Hash.DAL\obj\Debug\net6.0\ref\Hash.DAL.dll

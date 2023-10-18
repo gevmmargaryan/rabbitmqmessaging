@@ -1,0 +1,15 @@
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\bin\Debug\net6.0\Hash.Helper.deps.json
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\bin\Debug\net6.0\Hash.Helper.dll
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\bin\Debug\net6.0\Hash.Helper.pdb
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\bin\Debug\net6.0\Hash.Model.dll
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\bin\Debug\net6.0\Hash.Model.pdb
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\obj\Debug\net6.0\Hash.Helper.csproj.AssemblyReference.cache
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\obj\Debug\net6.0\Hash.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\obj\Debug\net6.0\Hash.Helper.AssemblyInfoInputs.cache
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\obj\Debug\net6.0\Hash.Helper.AssemblyInfo.cs
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\obj\Debug\net6.0\Hash.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\obj\Debug\net6.0\Hash.Helper.csproj.CopyComplete
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\obj\Debug\net6.0\Hash.Helper.dll
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\obj\Debug\net6.0\refint\Hash.Helper.dll
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\obj\Debug\net6.0\Hash.Helper.pdb
+C:\Users\Zevs\source\repos\Hash\Hash.Helper\obj\Debug\net6.0\ref\Hash.Helper.dll
